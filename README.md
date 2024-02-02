@@ -1,6 +1,6 @@
 ### Hi there, I'm Hugo. 
 
-![https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg]
+![madeWith](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
 I'm a 20 year old currently studying web development.
 

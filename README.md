@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Hugo. 
+
+https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg
+
+I'm a 20 year old currently studying web development.
 
 <!--
 **kelsier127/kelsier127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
